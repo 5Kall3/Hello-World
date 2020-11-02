@@ -2,5 +2,5 @@
 Library		BuiltIn
 
 *** Test Cases ***
-Random string
+Comment
 	Comment		Hello World
